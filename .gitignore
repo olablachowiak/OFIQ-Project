@@ -1,0 +1,7 @@
+build/
+extern/
+install*/
+data/tests/images/*.png
+data/tests/images/LICENSE.md
+data/models/*
+!data/tests/models/README.md
